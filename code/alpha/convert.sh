@@ -5,6 +5,14 @@
 # Copyright (C) 2016 Uvea I. S., Kevin Rattai
 #
 # This code should wait on requests, convert, and respond with answer
+#
+# Currencies to convert:
+# + dollar (by country, economic zone)
+# + precious metals / minerals
+# + time (general and pro)
+# + peer coin
+# + etc
+
 
 cd $HOME
 
