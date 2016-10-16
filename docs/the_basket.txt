@@ -1,3 +1,12 @@
 The basis of many original currencies is a basket.
 
 A basket consists of a number of items which become the keystone of a currency token.
+
+Items in the basket would certainly include:
+grain, meat, salt, fruit / honey, minerals, energy, precious metals, fibres
+
+Although with minerals and precious metals may not be in the initial basket.
+
+Fibres would be for clothing, etc.
+Energy might be wood, which would include for building homes
+
