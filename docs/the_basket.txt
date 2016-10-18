@@ -13,4 +13,12 @@ Energy might be wood, which would include for building homes
 As a starting point on utilizing the basket as a stabilizer:
 On placing goods or services "into" the basket, similar to a barter system, the "vendor" would acquire some equivalence in tokens.  Tokens could be redeemed for goods or services.  Also, goods and services can be traded as equivalence.
 
-A basket would be the basis of a token based on the needs of one year, calculated against and average work done in a year.
+A basket would be the basis of a token based on the needs of one year, calculated against and average work done in a year. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Review and update doc with inclusion of:
+After much consideration, the basket should consist of items including:
++ salt
++ graphene
++ time
