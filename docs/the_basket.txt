@@ -2,6 +2,9 @@ The basis of many original currencies is a basket.
 
 A basket consists of a number of items which become the keystone of a currency token.
 
+Why a basket?
+A basket is a stored value that provides the opportunity to trade against, as it holds current and available resources that would be the ultimate goal to fulfill needs.
+
 Initial basket items would be:
 + salt
 + graphene
