@@ -11,6 +11,8 @@ Initial basket items would be:
 + time
 + wheat
 
+Everything takes time to obtain, which is why the core value of all items in the basket will be converted to a time based token.
+
 Additional items in the basket may include:
 meat, fruit / honey, minerals, energy, precious metals, fibres
 
