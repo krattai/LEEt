@@ -13,6 +13,8 @@ Initial basket items would be:
 
 Everything takes time to obtain, which is why the core value of all items in the basket will be converted to a time based token.  There is often concern about using time as a denominator as time of individuals can be subjective.  The idea of time as a measure is using "skilled" time.  Also, time to become skilled is not considered in the time equation, as the excercise of training is a seperate activity.  It still remains that someone who is skilled at an activity will be both efficient AND effective.
 
+One of the more challenging aspects of a basket is how to value specific items, especially if an item is made of a number of components.  In that regard, items should be raw materials only.
+
 Additional items in the basket may include:
 meat, fruit / honey, minerals, energy, precious metals, fibres
 
