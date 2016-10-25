@@ -1,4 +1,4 @@
-The basis of many original currencies is a basket.
+The basis of many original currencies is a basket, for the purpose of trade leverage.
 
 A basket consists of a number of items which become the keystone of a currency token.
 
