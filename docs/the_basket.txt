@@ -1,6 +1,6 @@
 The basis of many original currencies is a basket, for the purpose of trade leverage.
 
-A basket consists of a number of items which become the keystone of a currency token.
+A basket consists of a number of items which become the keystone of a currency token.  With a complete basket, tokens can be created against the basket, which is then distributed for use in transactions.
 
 Why a basket?
 A basket is a stored value that provides the opportunity to trade against, as it holds current and available resources that would be the ultimate goal to fulfill needs.
