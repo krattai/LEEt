@@ -10,6 +10,7 @@ Initial basket items would be:
 + graphene
 + time
 + wheat
++ lumber
 
 Early societies used grainaries as their basket, for leverage, when trading with other tribes.
 
