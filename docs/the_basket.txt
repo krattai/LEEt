@@ -5,6 +5,8 @@ A basket consists of a number of items which become the keystone of a currency t
 Why a basket?
 A basket is a stored value that provides the opportunity to trade against, as it holds current and available resources that would be the ultimate goal to fulfill needs.
 
+The goal of any basket should have reasonable, and more often locally and fairly readily available resources.
+
 Initial basket items would be:
 + salt
 + graphene
