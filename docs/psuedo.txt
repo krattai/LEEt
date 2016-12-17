@@ -1,0 +1,1 @@
+This file contains certain psuedo-code information, possibly for some ideas as well as for logic.
