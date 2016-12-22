@@ -1,5 +1,7 @@
 The following initial notes are some thoughts on how the local economic exchange might role out:
 
+Decided a good name for the interim denomination might be "natural money".  Other possibilities would be "open money" or "natural currency" or "open currency".
+
 I was thinking about the "system" and did some searching, it looks like the system can be called "Local Economic Exchange" which could then be called "LEE" as could the currency, as a clone or modification of the Minuto, depending on what people want.
 
 Step one might be setting up a workers cooperative, which should be a non-profit.
