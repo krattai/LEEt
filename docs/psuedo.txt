@@ -1,1 +1,5 @@
 This file contains certain psuedo-code information, possibly for some ideas as well as for logic.
+
+So, basic concept is the NC (natural currency) is not a denomination.  Rather it is a formula.
+
+
