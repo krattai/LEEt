@@ -1,8 +1,9 @@
 #!/bin/bash
 #
 # Converts currencies
+# currently completely non-functional
 #
-# Copyright (C) 2016 Uvea I. S., Kevin Rattai
+# Copyright (C) 2016 - 2017 Uvea I. S., Kevin Rattai
 #
 # This code should wait on requests, convert, and respond with answer
 #
