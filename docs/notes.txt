@@ -23,3 +23,14 @@ cooperatives could be manufacturing, construction, communications, energy, tool 
 ~~~~~~~~~~~
 
 Also, looking at this from a systems perspective, each component of the LEE should be replacable.  While it should allow for multiple features in a complimentary role and function, such as multiple currencies, a single currency could be in play as a different currency could replace it.
+
+~~~~~~~~~~~~~~~~~
+
+If desirable, a token may be locked to time, which could be described as a "nominal" effort of joules used by a "standard" person for a "standard" task.
+
+The following is some reference material:
+http://www.resilience.org/stories/2013-02-06/the-joule-standard/
+https://news.ycombinator.com/item?id=7238794
+http://www.theperfectcurrency.org/main-energy-currency/energy-currency
+http://www.activistpost.com/2013/03/electricity-as-currency-10-reasons-it.html
+
