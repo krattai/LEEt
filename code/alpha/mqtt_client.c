@@ -42,6 +42,10 @@
 
 #include "mosquitto.h"
 
+/* the following remark is reference information and certain aspects
+   are not relevant for this test code
+*/
+
 /* The linked code creates a client that connects to a broker at
  * localhost:1883, subscribes to the topics "tick", "control/#{PID}",
  * and "control/all", and publishes its process ID and uptime (in
@@ -144,6 +148,7 @@ static bool match(const char *topic, const char *key) {
     return 0 == strncmp(topic, key, strlen(key));
 }
 
+/* this function would be used to announce ststus */
 /* Handle a message that just arrived via one of the subscriptions. */
 static void on_message(struct mosquitto *m, void *udata,
                        const struct mosquitto_message *msg) {
