@@ -27,6 +27,8 @@
        https://github.com/silentbicycle/mqtt_demo
 
    for raspbian, libmosquitto-dev needs to be installed
+
+   170413 - Will adjust this for testing LEEt
 */
 
 #include <stdlib.h>
